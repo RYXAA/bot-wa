@@ -45,7 +45,7 @@ project/
 └── README.md
 🚀 Installation
 1. Clone Repository
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/RYXAA/bot-wa.git
 2. Masuk Folder
 cd REPOSITORY
 3. Install Dependencies
