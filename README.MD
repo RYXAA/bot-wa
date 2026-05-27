@@ -114,7 +114,7 @@ session/
 node_modules/
 👑 Author
 
-Made with ❤️ by YOUR NAME
+Made with ❤️ by RYXAA
 
 ⭐ Support
 
