@@ -31,6 +31,8 @@ Command Example:
 
 .ping
 .menu
+
+
 📂 Project Structure
 project/
 │
@@ -43,6 +45,9 @@ project/
 ├── index.js
 ├── package.json
 └── README.md
+
+
+
 🚀 Installation
 1. Clone Repository
 git clone https://github.com/RYXAA/bot-wa.git
@@ -57,6 +62,7 @@ Jalankan bot
 Scan QR Code yang muncul
 Tunggu sampai muncul:
 BOT CONNECTED
+
 ⚡ Command Example
 Ping Command
 .ping
